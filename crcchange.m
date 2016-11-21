@@ -17,6 +17,7 @@ while(1)
          break;
     end
 end
+fmin=subs(f,k,x)
 
 
 
